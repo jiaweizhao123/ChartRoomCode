@@ -7,7 +7,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.text.SimpleDateFormat;
-//数据库总类
+//数据库总
 public class db {
 	private String URL="jdbc:mysql://localhost:3306/chatroom?&useSSL=false&serverTimezone=UTC"; 
 	private String USER="root";
